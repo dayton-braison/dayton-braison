@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hello, I'm Dayton Braison 👋
 
-<!--
-**dayton-braison/dayton-braison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer based in Austin, Texas. I live here with my wonderful wife and two feline companions. With a strong foundation in web development, I bring expertise in various technologies to the table.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python, JavaScript
+- **Web Frameworks:** Django, React
+- **Database Management:** SQL
+- **Web Technologies:** HTML, CSS
+
+### What I Do
+
+I take pleasure in finding creative solutions to challenging issues and transforming concepts into practical, user-friendly applications. My aim is to develop software that not only meets technical requirements but also provides an enjoyable user experience.
+
+
+### Let's Connect
+
+I'm always open to new opportunities. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/dayton-braison) to start a conversation.
+
+
+
+
