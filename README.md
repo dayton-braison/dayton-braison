@@ -13,6 +13,11 @@ I'm a passionate software developer based in Austin, Texas. I live here with my 
 
 I take pleasure in finding creative solutions to challenging issues and transforming concepts into practical, user-friendly applications. My aim is to develop software that not only meets technical requirements but also provides an enjoyable user experience.
 
+### Featured Projects
+
+Here is a project that I am currently working on:
+
+[The Pet Palace](https://daytonbraison.pythonanywhere.com): An e-commerce marketplace to buy pets. Built with Django.
 
 ### Let's Connect
 
