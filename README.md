@@ -17,7 +17,7 @@ I take pleasure in finding creative solutions to challenging issues and transfor
 
 Here are the projects that I am currently working on:
 
-[The Pet Palace](https://daytonbraison.pythonanywhere.com): An e-commerce marketplace to buy pets. Built with Django.
+[The Pet Palace](https://thepetpalace-daytonbraison.pythonanywhere.com): An e-commerce marketplace to buy pets. Built with Django.
 
 [Amor Dating Website](https://amor-dating-daytonbraison.pythonanywhere.com): A dating website built with Django.
 
